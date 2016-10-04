@@ -119,13 +119,15 @@ main{
 	background-color: #A9D5D4;
 	width: 1920px;
 	height: 300px;
-	
 	margin-left: -20px;
 }
 header{
-	height: 275px;
+	height: 273px;
 
 }
 div.doei{
 	margin-top: -10px;
+}
+div{
+
 }
