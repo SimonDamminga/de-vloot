@@ -1,12 +1,9 @@
 /*pagina opmaak */
-
 /*plaatje opmaak */
-
 img{
 	margin-top: -10px;
 	position: relative;
 	margin: 0 auto;
-
 }
 .top-left{
 	float: left;
@@ -123,11 +120,7 @@ main{
 }
 header{
 	height: 273px;
-
 }
 div.doei{
 	margin-top: -10px;
-}
-div{
-
 }
